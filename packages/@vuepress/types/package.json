@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@types/markdown-it": "^10.0.0",
-    "@types/webpack-dev-server": "^3",
+    "@types/webpack-dev-server": "^4.7.0",
     "webpack-chain": "^6.0.0"
   },
   "publishConfig": {
